@@ -1,0 +1,12 @@
+INDEX VERSION 1.126+C:\Users\Wagner Tsuchiya\projects\coursera\wagner\1stclass\.metadata\.plugins\org.eclipse.jdt.core
+4024820843.index
+1789758879.index
+691872012.index
+3074118682.index
+3554637298.index
+1288665897.index
+2068056467.index
+3556348467.index
+1284074322.index
+2636128193.index
+1162025106.index

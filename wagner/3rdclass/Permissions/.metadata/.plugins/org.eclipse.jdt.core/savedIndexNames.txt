@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\Users\Wagner Tsuchiya\projects\coursera\wagner\3rdclass\Permissions\.metadata\.plugins\org.eclipse.jdt.core
+466626297.index
+4164229505.index
+1017422515.index
+2693454230.index
+2743349949.index

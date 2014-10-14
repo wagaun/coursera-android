@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;trans&apos; in &apos;course.labs.fragmentslab.MainActivity.onCreate(...)&apos; to &apos;fragmentTransaction&apos;&#x0D;&#x0A;- Original project: &apos;FragmentsLab&apos;&#x0D;&#x0A;- Original element: &apos;course.labs.fragmentslab.MainActivity.onCreate(Bundle).trans&apos;&#x0D;&#x0A;- Renamed element: &apos;trans&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;trans&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;course.labs.fragmentslab{MainActivity.java[MainActivity~onCreate~QBundle;@trans!883!945!903!907!QFragmentTransaction;!0!false" name="fragmentTransaction" references="true" stamp="1413247045450" version="1.0"/>
+</session>
