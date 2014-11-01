@@ -1,0 +1,30 @@
+package coursera.wagner.artgenerator;
+
+import android.app.AlertDialog;
+import android.app.Dialog;
+import android.app.DialogFragment;
+import android.content.DialogInterface;
+import android.os.Bundle;
+
+public class LinkToMomaDialogFragment extends DialogFragment {
+	@Override
+	public Dialog onCreateDialog(Bundle savedInstanceState) {
+		return new AlertDialog.Builder(getActivity()).
+				setMessage(getString(R.string.moreMessage)).
+				setCancelable(true).
+				setNegativeButton(getString(R.string.moreNegativeButton), new DialogInterface.OnCancelListener() {
+					
+					public void onCancel(DialogInterface dialog) {
+						// TODO Auto-generated method stub
+						
+					}
+				}).
+				setPositiveButton(getString(R.string.morePositiveButton), new DialogInterface.OnClickListener() {
+					
+					public void onClick(DialogInterface dialog, int which) {
+						// TODO Auto-generated method stub
+						
+					}
+				}).create();
+	}
+}

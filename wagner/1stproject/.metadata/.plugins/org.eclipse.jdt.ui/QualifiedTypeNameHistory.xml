@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.app.DialogFragment"/>
+<fullyQualifiedTypeName name="android.app.AlertDialog.Builder"/>
+<fullyQualifiedTypeName name="android.app.AlertDialog"/>
+<fullyQualifiedTypeName name="android.content.DialogInterface"/>
+<fullyQualifiedTypeName name="coursera.wagner.artgenerator.R.string"/>
+<fullyQualifiedTypeName name="android.content.DialogInterface.OnClickListener"/>
+<fullyQualifiedTypeName name="android.content.DialogInterface.OnCancelListener"/>
+<fullyQualifiedTypeName name="coursera.wagner.artgenerator.LinkToMomaDialogFragment"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="android.widget.LinearLayout"/>
+<fullyQualifiedTypeName name="coursera.wagner.artgenerator.R.id"/>
+<fullyQualifiedTypeName name="android.widget.SeekBar"/>
+<fullyQualifiedTypeName name="android.widget.SeekBar.OnSeekBarChangeListener"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
+</qualifiedTypeNameHistroy>

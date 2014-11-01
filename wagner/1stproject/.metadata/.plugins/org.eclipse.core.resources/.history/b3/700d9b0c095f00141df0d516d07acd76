@@ -1,0 +1,66 @@
+package coursera.wagner.artgenerator;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.ContextMenu;
+import android.view.ContextMenu.ContextMenuInfo;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.LinearLayout;
+import android.widget.SeekBar;
+import android.widget.TextView;
+import android.widget.Toast;
+
+public class MainScreenActivity extends Activity {
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+
+		setContentView(R.layout.main);
+	
+		SeekBar seekbar = (SeekBar) findViewById(R.id.seekbar);
+		seekbar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener () {
+			
+			
+			public void onProgressChanged(SeekBar seekBar, int progress,
+					boolean fromUser) {
+				View firstSquare = findViewById(R.id.firstSquare);
+				firstSquare.setBackgroundColor(progress);
+			}
+
+			public void onStartTrackingTouch(SeekBar seekBar) {
+				// TODO Auto-generated method stub
+				
+			}
+
+			public void onStopTrackingTouch(SeekBar seekBar) {
+				// TODO Auto-generated method stub
+				
+			}
+		})
+	}
+
+	// Create Options Menu
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		MenuInflater inflater = getMenuInflater();
+		inflater.inflate(R.menu.top_menu, menu);
+		return true;
+	}
+
+	// Process clicks on Options Menu items
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+		LinkToMomaDialogFragment mDialog;
+		
+		switch (item.getItemId()) {
+		case R.id.help:
+			mDialog = LinkToMomaDialogFragment.newInstance();
+			mDialog.show(getFragmentManager(), "Alert");
+			return true;
+		default:
+			return false;
+		}
+	}
+}

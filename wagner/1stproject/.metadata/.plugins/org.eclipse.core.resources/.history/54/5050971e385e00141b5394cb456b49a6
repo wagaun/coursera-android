@@ -1,0 +1,7 @@
+package coursera.wagner.artgenerator;
+
+import android.app.DialogFragment;
+
+public class LinkToMomaDialogFragment extends DialogFragment {
+
+}
