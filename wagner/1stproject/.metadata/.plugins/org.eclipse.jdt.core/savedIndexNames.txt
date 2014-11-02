@@ -1,2 +1,0 @@
-INDEX VERSION 1.126+C:\Users\Wagner\Documents\devel\coursera\android\coursera-android-wagner\wagner\1stproject\.metadata\.plugins\org.eclipse.jdt.core
-2164535807.index

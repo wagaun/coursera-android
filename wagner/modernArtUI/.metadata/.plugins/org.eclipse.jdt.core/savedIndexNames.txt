@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\Wagner\Documents\devel\coursera\android\myrepo\wagner\modernArtUI\.metadata\.plugins\org.eclipse.jdt.core
+2164535807.index
+3224899642.index
