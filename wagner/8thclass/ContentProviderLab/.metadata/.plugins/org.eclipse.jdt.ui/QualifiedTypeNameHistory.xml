@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="course.labs.contentproviderlab.R.layout"/>
+<fullyQualifiedTypeName name="course.labs.contentproviderlab.PlaceViewAdapter"/>
+<fullyQualifiedTypeName name="android.content.CursorLoader"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="course.labs.contentproviderlab.provider.PlaceBadgesContract"/>
+</qualifiedTypeNameHistroy>

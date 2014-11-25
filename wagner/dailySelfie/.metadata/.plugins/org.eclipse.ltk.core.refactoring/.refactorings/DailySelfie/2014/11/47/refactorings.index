@@ -1,0 +1,15 @@
+1416269032349	Rename package 'coursera.wagner.artgenerator'
+1416269049955	Delete element
+1416277209526	Rename resource 'photo-99135_1280.png'
+1416277231273	Rename resource 'camera.png'
+1416277241520	Copy file
+1416277243875	Copy file
+1416277245325	Copy file
+1416277251520	Copy file
+1416277253675	Copy file
+1416277257113	Delete element
+1416283390867	Rename method 'createImageFile'
+1416283546229	Rename field 'mCurrentPhotoPath'
+1416283898658	Rename local variable 'imageFileName'
+1416284251721	Rename field 'mCurrentTmpPhotoPath'
+1416284262177	Rename field 'mFileName'

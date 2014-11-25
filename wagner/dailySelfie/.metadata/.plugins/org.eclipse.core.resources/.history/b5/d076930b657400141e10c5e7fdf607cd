@@ -1,0 +1,34 @@
+package coursera.wagner.dailyselfie;
+
+import java.io.File;
+
+import coursera.wagner.artgenerator.R;
+import android.app.Activity;
+import android.content.Context;
+import android.net.Uri;
+import android.os.Bundle;
+import android.util.AttributeSet;
+import android.view.View;
+import android.widget.ImageView;
+
+public class ImageDetailsActivity extends Activity {
+	
+	public static final FILENAME_PARAMETER = "coursera.wagner.dailyselfie.ImageDetailsActivity.filename";
+	
+	public ImageDetailsActivity() {
+	}
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		
+		Bundle b = getIntent().getExtras();
+		int value = b.getInt("fileName");
+		
+		ImageView imageView = (ImageView) findViewById(R.id.selfie);
+		imageView.setContentDescription(mFile.getName());
+		imageView.setImageURI(Uri.fromFile(mFile));
+		setContentView(R.layout.details);
+	}
+}
+

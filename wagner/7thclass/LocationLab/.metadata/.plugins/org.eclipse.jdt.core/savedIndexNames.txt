@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\Wagner\Documents\devel\coursera\android\myrepo\wagner\7thclass\LocationLab\.metadata\.plugins\org.eclipse.jdt.core
+151205006.index
+2792678602.index
+706029852.index
+2519268419.index

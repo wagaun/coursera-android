@@ -1,0 +1,10 @@
+1416888264929	Rename method 'getmDirectory'
+1416888433766	Rename field 'imageDataManager'
+1416889218742	Rename field 'gridView'
+1416889231299	Rename local variable 'gv'
+1416889474977	Delete element
+1416889658969	Rename resource 'list_adapter.xml'
+1416890254542	Delete element
+1416890491242	Rename local variable 'objects'
+1416891557397	Copy file
+1416892860148	Extract local variable 'adapter'

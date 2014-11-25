@@ -1,0 +1,14 @@
+package coursera.wagner.dailyselfie;
+
+import android.R;
+import android.content.Context;
+import android.widget.ArrayAdapter;
+
+public class SelfiesArrayAdapter extends ArrayAdapter<File> {
+
+	public SelfiesArrayAdapter(Context context, File[] objects) {
+		super(context, R.layout.list_item, objects);
+		// TODO Auto-generated constructor stub
+	}
+
+}

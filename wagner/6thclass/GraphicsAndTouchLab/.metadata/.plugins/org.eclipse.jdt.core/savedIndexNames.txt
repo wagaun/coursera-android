@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Wagner\Documents\devel\coursera\android\myrepo\wagner\6thclass\GraphicsAndTouchLab\.metadata\.plugins\org.eclipse.jdt.core
+1044642965.index
+3528684115.index
+1412975485.index

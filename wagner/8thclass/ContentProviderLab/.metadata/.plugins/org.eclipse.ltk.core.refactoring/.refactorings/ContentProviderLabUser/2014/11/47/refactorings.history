@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;uri&apos; from expression &apos;Uri.parse(mBitmapStoragePath)&apos;&#x0D;&#x0A;- Original project: &apos;ContentProviderLabUser&apos;&#x0D;&#x0A;- Variable name: &apos;uri&apos;&#x0D;&#x0A;- Destination method: &apos;course.labs.contentproviderlab.PlaceViewAdapter.add()&apos;&#x0D;&#x0A;- Variable expression: &apos;Uri.parse(mBitmapStoragePath)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;uri&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;course.labs.contentproviderlab{PlaceViewAdapter.java" name="uri" replace="true" selection="4108 29" stamp="1416200755870" version="1.0"/>
+</session>

@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\Users\Wagner\Documents\devel\coursera\android\myrepo\wagner\8thclass\ContentProviderLab\.metadata\.plugins\org.eclipse.jdt.core
+2710229495.index
+1564316702.index
+1470738011.index
+4100356530.index
+2792678602.index

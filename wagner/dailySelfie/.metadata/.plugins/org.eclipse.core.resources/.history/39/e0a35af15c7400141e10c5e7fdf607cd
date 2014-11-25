@@ -1,0 +1,23 @@
+package coursera.wagner.dailyselfie;
+
+import java.io.File;
+
+import coursera.wagner.artgenerator.R;
+
+import android.content.Context;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+
+public class SelfiesArrayAdapter extends ArrayAdapter<File> {
+
+	public SelfiesArrayAdapter(Context context, File[] objects) {
+		super(context, R.layout.list_item, objects);
+	}
+
+	@Override
+	public View getView(int position, View convertView, ViewGroup parent) {
+		// TODO Auto-generated method stub
+		return super.getView(position, convertView, parent);
+	}
+}
